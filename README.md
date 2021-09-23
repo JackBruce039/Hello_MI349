@@ -4,7 +4,7 @@
 Terminal Commit
 git add .
 git commit -m "whatever message you want in quotes"
-git push origin master
+git push -u origin master
 
 VS Code Commit
 -- Stage with the +
